@@ -1,2 +1,2 @@
 # Demo
-Git Course
+Git Course!
